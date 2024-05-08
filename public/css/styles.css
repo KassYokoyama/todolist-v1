@@ -21,6 +21,11 @@ h1 {
 #heading {
   background-color: #A683E3;
   text-align: center;
+  background-image: url('http://maui.hawaii.edu/mli/wp-content/uploads/2014/04/UHMC-Header.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100%; /* Adjust based on your layout needs */
+  width: 100%;
 }
 
 .item {
@@ -93,4 +98,9 @@ footer {
   color: white;
   color: rgba(0, 0, 0, 0.5);
   text-align: center;
+  background-image: url('https://maui.hawaii.edu/wp-content/uploads/2021/02/official-seal.jpg');
+  background-size: 610px 394px; /* Size as required */
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 200px 0; /* Adjust padding to fit the image */
 }
